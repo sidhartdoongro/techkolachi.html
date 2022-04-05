@@ -1,0 +1,94 @@
+#kl{
+    background-color: #869b69;
+      text-align: center;
+      color: white;
+      padding-top: 50px;
+      padding-bottom: 50px;  
+      margin-bottom: 150px;
+}
+#hh{
+    width: 60%;
+  }
+#pl{
+    font-size: 55px;
+}
+#cr{
+    background-color: #bee18d;
+}
+#lang{
+    width: 200px;
+    height: 75px;
+    margin: 20px;
+    margin-left: 85px;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#lop{
+    border: none;
+    background-color: #bee18d;
+    color: white;
+    font-size: 20px;
+}
+  #lop:hover{
+    color: green;
+}
+#zx{
+    border: #869b69 solid 5px; 
+    float: left;
+    padding: 10px;
+    margin: 25px;
+    margin-left: 100px;
+    text-align: center;
+}
+#lx{
+    border: #869b69 solid 5px; 
+    float: left;
+    padding: 10px;
+    margin: 25px;
+    text-align: center;
+}
+#ox{
+    border: #869b69 solid 5px; 
+    float: left;
+    padding: 10px;
+    margin: 25px;
+    margin-left: 100px;
+    text-align: center;
+}
+#px{
+    width: 80px;
+    height: 80px;
+}
+#ko{
+    padding: 8px;
+    
+}
+#ax{
+    border: #869b69 solid 5px; 
+    float: left;
+    padding: 10px;
+    margin: 25px;
+    text-align: center;
+    margin-bottom: 150px;
+}
+#qq{
+    border: none;
+    font-size: 20px;
+    background-color: green;
+    color: white;
+}
+#f{
+    background-color: #bee18d;
+    color: #228b27;
+    font-size: 20px;
+    padding-left: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#sh{
+    text-decoration: none;
+    color: white;
+}
